@@ -6,6 +6,7 @@
 
 ```markdown
 https://ai-regulatory-navigator.vercel.app
+https://ai-regulatory-navigator-8nrk.vercel.app/#table
 ```
 
 Companies deploying AI agents internationally face a fragmented regulatory landscape — EU AI Act, US state laws, APAC frameworks, and more. This tool maps applicable regulations based on your jurisdictions, industry, and AI use cases.
